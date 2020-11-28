@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
 #### also attending
 - ESRI MOOC Spatial Data Science [:hammer:](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science%3A-the-new-frontier-in-analytics/)
-- NASA ARSET Magrove Mapping [:hammer:](https://appliedsciences.nasa.gov/join-mission/training/english/remote-sensing-mangroves-support-un-sustainable-development-goals)
 #### my projects
 IIRS Diploma Project[:eyes:](https://github.com/NomitRwt/DiplomaProject)
 #### click emojis
