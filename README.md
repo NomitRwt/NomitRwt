@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 #### intern at
 GIZ: Deutsche Gesellschaft für Internationale Zusammenarbeit [:books:](https://www.giz.de/en/worldwide/368.html)
 #### studying for
-IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
+- IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
+- Introduction to polarimetry[:satellite:](https://eo-college.org/courses/echoes-in-space/)
 #### my projects
 IIRS Diploma Project[:eyes:](https://github.com/NomitRwt/DiplomaProject)
 #### click emojis
