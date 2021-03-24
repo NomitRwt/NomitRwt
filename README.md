@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### intern at
-GIZ: Deutsche Gesellschaft für Internationale Zusammenarbeit [:books:](https://www.giz.de/en/worldwide/368.html)
-#### studying for
+
+#### Studying for
 - IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
 - Introduction to polarimetry[:satellite:](https://eo-college.org/courses/echoes-in-space/)
-#### my projects
+#### My projects
 IIRS Diploma Project[:eyes:](https://github.com/NomitRwt/DiplomaProject)
 #### click emojis
 [:raised_hand:](https://gist.github.com/rxaviers/7360908)
