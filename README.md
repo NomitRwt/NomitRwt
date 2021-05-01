@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+#### Currently
+Business Analyst at Tech Mahindra
 #### Studying for
 - IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
 - ESRI MOOC Do-It-Yourself geoapps[:books:](https://www.esri.com/training/catalog/57660ed7bb54adb30c9454a3/do-it-yourself-geo-apps/)
