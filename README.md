@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Currently
-Business Analyst at Tech Mahindra
+Business Analyst at Tech Mahindra [:office:](https://www.linkedin.com/in/nomit-rawat/)
 #### Studying for
-- IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
+IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
 #### My projects
-IIRS Diploma Project[:eyes:](https://github.com/NomitRwt/DiplomaProject)
+IIRS Diploma Project [:eyes:](https://github.com/NomitRwt/DiplomaProject)
 #### click emojis
 [:raised_hand:](https://gist.github.com/rxaviers/7360908)
