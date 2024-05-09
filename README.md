@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Currently
-GIS Specialist at Burns & Mcdonnell India [:office:](https://www.linkedin.com/in/nomit-rawat/)
+Senior software engineer, (Techinal lead arcpy, python) at ULTS [:office:](https://www.linkedin.com/in/nomit-rawat/)
 #### Studying for
 IIT Madras Online Degree in Programming and Data Science [:computer:](https://onlinedegree.iitm.ac.in/)
 #### My projects
