@@ -1,4 +1,4 @@
-### Hi there 👋 currently I am
+### Hi there 👋
 
 <!--
 **NomitRwt/NomitRwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
